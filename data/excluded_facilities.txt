@@ -1,0 +1,14 @@
+# Dentist Google-review outreach exclusion facilities
+# Seeded from currently valid (<30 Google reviews) Dentist drafts on 2026-09-22.
+
+Tandlæge Rikke Mørch
+Tandlæge Jens Bloch
+Tandlæge Selda Benli ApS
+Tandlægerne Hestetorvet
+Tandklinikken TrøjborgCentret
+Tandlæge Anne Rikke Faarup Sørensen
+Tandlæge Sara Koefoed
+Tandlægeklinikken v/Rikke Hartlev
+Tandlæge Helle Brandt
+Tandlæge Morten Skov Hansen
+Tand-Huset
