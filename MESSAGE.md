@@ -46,6 +46,7 @@ Avoid corporate/template language such as:
 - "øge jeres digitale synlighed"
 - "optimere jeres online tilstedeværelse"
 - long, polished marketing explanations
+- things like colons, dashes or things that scream AI message
 
 Do not become timid or apologetic. Avoid filler like "jeg ved selvfølgelig ikke, om I går op i det" or language that diminishes the importance of the idea.
 
