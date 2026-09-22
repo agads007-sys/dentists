@@ -1,2 +1,29 @@
 # Dentist Google-review outreach exclusion log
 # Append newly drafted clinic emails and facility names here after each successful run.
+
+# 2026-09-22 dentist run
+hobro@harald.dk | Harald Tandlægerne Hobro
+info@hobrotandplejecenter.dk | Hobro Tandlæge Center
+info@dintandlaege-hobro.dk | dinTANDLÆGE Hobro
+mail@tandlaegerne-biesgade.dk | Tandlægerne i Biesgade
+info@dintandlaege-grenaa.dk | dinTANDLÆGE Grenaa
+post@grenaatand.dk | Grenå Tandlægeklinik
+info@tandgrenaa.dk | Tandlægehuset Grenaa
+reception2@tandlaege-grenaa.dk | Tandlægerne i Ågade
+kontakt@tandklinikthomassen.dk | Tandklinik Thomassen
+klinik@aabentand.dk | Tandlægerne Lise Westermann & Christina Frandsen
+rec@specialtandklinikken.dk | Specialtandklinikken Sønderjylland
+mail@opnoertand.dk | Opnørgårdens Tandklinik
+teglhoej@mail.dk | Hanne Teglhøj Tandlæger
+svendborg@tflivet.dk | Tænder for livet - Svendborg
+kontakt@tandlaegernecentrumpladsen.dk | Tandlægerne Centrumpladsen
+mail@tandklinikkenklostergaarden.dk | Tandklinikken Klostergaarden
+kontor@ringsted-tandklinik.dk | Ringsted tandklinik & ImplantatCenter
+Kontakt@martinaaside.dk | Tandlæge Martin Åside
+info@dittandteam.dk | Dit Tandteam
+Email@tandlaegemeretelerche.dk | Tandlæge Merete Lerche
+tandklinikken@baggersgade.dk | Tandklinikken Baggersgade
+info@tandkvalitet.dk | Tandlægerne Adelgade
+faaborg@tflivet.dk | Tænder for livet - Faaborg
+denteam@denteam.info | Tandlægecenter Denteam, Faaborg
+haarby@tflivet.dk | Tænder for livet - Haarby
