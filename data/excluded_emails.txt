@@ -1,0 +1,14 @@
+# Dentist Google-review outreach exclusion emails
+# Seeded from currently valid (<30 Google reviews) Dentist drafts on 2026-09-22.
+
+kontakt@tandtuborgvej.dk
+mail@tandlaegebloch.dk
+klinik@smile4you.dk
+mail@tandtorvet.dk
+klinik@smil-bare.dk
+info@tandlaege-i-aalborg.dk
+info@tand3400.dk
+info@rikkehartlev.dk
+klinik@hellebrandt.dk
+post@tandlaegemsh.dk
+info@tand-huset.dk
