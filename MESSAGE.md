@@ -46,5 +46,10 @@ Michael
 - Personalize the opening observation and the business-relevance sentence to the actual business.
 - Keep it concise and natural. Do not turn personalization into an analysis.
 - Use an appropriate official published email/contact route.
-- Keep every prospect unique within the current run so the same email or business is not selected twice in that run.
+- For dentist/dental-clinic prospects, verify the current Google/Google Maps review count before drafting. Only use clinics with fewer than 30 Google reviews; skip clinics with 30 or more.
+- At the start of each run, load `data/excluded_emails.txt`, `data/excluded_facilities.txt`, and `data/exclusions-log.txt` once and use them as the working dedup list for the whole run.
+- These Dentist exclusion files are campaign-specific. Do not use exclusion lists from `agads007-sys/outreach-barebones` or another campaign.
+- Never reuse a listed email or facility.
+- Keep every newly selected prospect in the working dedup list during the run so the same email or business cannot be selected twice in that run.
+- After all successful new drafts are created, append all new emails and facilities to `data/exclusions-log.txt` in one update.
 - When multiple connected Gmail accounts are available, spread new drafts across all seven accounts listed in `data/gmail_accounts.txt`; do not duplicate a prospect just to fill accounts.
