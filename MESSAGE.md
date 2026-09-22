@@ -1,12 +1,43 @@
 # Message
 
-Use the Danish base message below as the actual master message for every dentist outreach draft.
+## NON-NEGOTIABLE: SAME MESSAGE, DIFFERENT WORDING
 
-Do NOT reinvent the pitch. Do NOT create a new sales angle for each clinic. Do NOT turn personalization into a paragraph about the clinic.
+Every dentist draft must communicate the SAME message below.
 
-The drafts should be variations of THIS message, not merely messages inspired by it.
+"Variation" means PARAPHRASE, not a new pitch.
 
-## Danish master message
+Think of it like this:
+- "Huset brænder."
+- "Huset står i flammer."
+- "Der er ild i huset."
+
+Different words. Same message.
+
+That is exactly how these emails must vary.
+
+Do NOT merely swap one or two synonyms while copying the rest word-for-word. Rewrite sentences naturally and substantially, while preserving every important idea, the same conviction, the same sequence of reasoning, and the same offer.
+
+Do NOT invent new angles, clinic-history stories, marketing arguments, benefits, objections, or sales logic.
+
+## The message that every email must preserve
+
+1. Michael came across the clinic on Google / while looking at dentists.
+2. State the clinic's VERIFIED current Google review count.
+3. Michael compared the clinic with other dentists in the area and genuinely believes there is a lot of opportunity in getting more reviews.
+4. Explain the reason plainly: people looking for a dentist compare clinics on Google, and a large difference in review count matters when choosing between clinics.
+5. "Det er derfor, jeg skriver" / a natural paraphrase carrying exactly that meaning.
+6. Explain the product: after a patient visit, the clinic enters the patient's phone number. The patient gets an SMS with a direct link to the clinic's Google profile/review page and can leave a review immediately.
+7. Explain that this takes almost no time for the clinic, but doing it consistently with patients can make a major difference to how the clinic looks on Google over time.
+8. Michael sets everything up and handles it.
+9. Price is exactly 299 kr. per month.
+10. No binding.
+11. Say naturally that Michael thinks it would be very relevant / obvious for this clinic.
+12. End with a short conversational CTA asking whether they want to see it / whether it could be relevant.
+13. Sign "Mvh\nMichael".
+
+Every draft must preserve ALL of those points. A draft that omits one of the core points in order to be "different" is wrong.
+
+## Master reference
 
 Hej
 
@@ -31,87 +62,99 @@ Skal jeg vise jer det?
 Mvh
 Michael
 
-## How to vary it
+## What good variation looks like
 
-Keep the message, argument, intensity, offer, and overall flow essentially the same.
+A new draft may say:
 
-Variation means making small, natural changes so the emails do not look copied word-for-word. For example:
+"Jeg sad lige og kiggede på tandlæger på Google og faldt over jer. I ligger på [X] anmeldelser lige nu."
 
-- "Jeg faldt lige over jer på Google..." can become "Jeg så lige jer på Google..." or "Jeg sad lige og kiggede på tandlæger i området og faldt over jer..."
-- "der er virkelig meget at hente her" can become "I har virkelig meget at hente her" or "jeg tror seriøst, der er meget at hente her"
-- The explanation about patients comparing dentists can be phrased slightly differently while keeping the same strong point.
-- The explanation of the SMS system can be worded slightly differently, but it must remain just as clear.
-- "Skal jeg vise jer det?" can become "Kunne det være noget for jer?" or "Skal jeg lige vise jer, hvordan det fungerer?"
+Another may say:
 
-Do not substantially change the structure. Do not invent a different pitch. Do not replace the strong Google-review argument with a clinic-history story or generic personalization.
+"Jeg så lige jeres klinik på Google og lagde mærke til, at I har [X] anmeldelser."
 
-The goal is that every draft sounds like Michael wrote the same strong message personally to that clinic, with natural wording differences.
+Another may say:
+
+"Jeg var inde og kigge på tandlæger i området og endte på jeres Google-profil. I har [X] anmeldelser lige nu."
+
+Those are genuinely different sentences carrying the exact same message.
+
+The same principle applies to EVERY paragraph.
+
+For the comparison/reasoning paragraph, examples of the same message include:
+
+"Jeg kiggede også på nogle af de andre tandlæger omkring jer, og jeg tror virkelig, der er meget at hente. Folk sammenligner jo klinikker på Google, og hvis én har langt flere anmeldelser end en anden, så spiller det selvfølgelig ind."
+
+or:
+
+"Da jeg sammenlignede jer med de andre klinikker i området, tænkte jeg med det samme, at der ligger en ret stor mulighed her. Når folk leder efter en ny tandlæge, bruger de Google til at sammenligne, og forskellen på få og mange anmeldelser betyder altså noget."
+
+Same meaning. Different wording.
+
+Do this throughout the entire email.
+
+## Variation requirements across a batch
+
+Do not create a batch where 20 emails are 90% identical.
+
+Across a batch:
+- Rewrite the opening in multiple genuinely different ways.
+- Rewrite the local-comparison paragraph in multiple genuinely different ways.
+- Rewrite the explanation of why reviews matter in multiple genuinely different ways.
+- Rewrite the SMS-system explanation in multiple genuinely different ways.
+- Rewrite the "almost no work / big difference over time" point in multiple genuinely different ways.
+- Rewrite the setup/price/no-binding sentence in multiple genuinely different ways.
+- Vary the final conviction sentence.
+- Vary the CTA.
+
+But ALWAYS preserve the same message and all 13 core points above.
+
+Do not add random personalization just to make an email different. The variation should primarily come from language.
 
 ## Important rule about numbers
 
 [X] MUST be the clinic's verified current Google/Google Maps review count.
 
-The "15 anmeldelser vs 150" line is an illustration of why review count matters. It is NOT a factual claim about the specific clinic or its competitors.
+The "15 anmeldelser vs 150" sentence in the reference is an illustrative example of why review count matters. It is NOT automatically a factual statement about the clinic's local competitors.
 
-If wording makes it sound like 15 and 150 are the actual local counts, change it to a generic formulation such as:
+You may paraphrase it generically:
+"den ene har langt flere anmeldelser end den anden"
+"der er stor forskel på antallet af anmeldelser"
+"den ene har fået bygget markant flere anmeldelser op"
 
-"Og hvis de står mellem to klinikker, hvor den ene har markant flere anmeldelser end den anden, så betyder det altså noget."
-
-If you make a factual comparison with actual nearby dentists, verify the comparison first.
+If you use actual competitor numbers as a factual local comparison, verify them first.
 
 ## Tone
 
-Casual, direct, confident, conversational and high-conviction.
+Write like Michael would actually speak on a phone call.
 
-It should sound like something Michael could genuinely say on a phone call.
+Casual. Direct. Confident. Conversational. High conviction.
 
-Casual does NOT mean timid. Do not weaken the importance of Google reviews. The message should make it clear that this is a simple thing for the clinic to do and that Michael genuinely believes consistently getting more real patient reviews can make a major difference to how the clinic looks when potential patients compare dentists on Google.
+Do not weaken the pitch to sound casual.
 
-Avoid corporate/template language such as:
+Avoid corporate/template language, polished agency copy, unnecessary headings inside the email, colons, dashes, or wording that sounds AI-generated.
 
-- "en enkel løsning, der gør det nemmere"
-- "løbende drift"
-- "for en virksomhed som jeres"
-- "uden at ændre resten af jeres arbejdsgang"
-- "øge jeres digitale synlighed"
-- "optimere jeres online tilstedeværelse"
-- long polished marketing explanations
-- unnecessary colons, dashes, headings or other things inside the email that make it look AI-generated
+Do not use timid filler.
 
-Avoid timid filler such as "jeg ved selvfølgelig ikke, om I går op i det."
-
-Do not make guaranteed performance claims or invented numerical results.
+Do not make guaranteed results or unsupported performance claims.
 
 ## Personalization
 
-Keep personalization light.
+The verified Google review count is the primary personalization.
 
-The verified Google review count is the main personalization.
-
-A second real clinic-specific detail may be used only if it fits naturally into the master message without changing the pitch. Do not force a random fact from the clinic website into the email.
+A second verified clinic-specific fact is optional and should only be used if it fits naturally without changing the message. Never turn the email into a story about the clinic.
 
 Never invent details.
 
-## Rules
+## Operational rules
 
-- Drafts only. Never send automatically.
-- Use the Danish master message above as the base for every draft.
-- Vary wording naturally, but stay close to the master message.
-- Do not create completely different structures or sales angles just for variation.
-- Keep the same strong argument about why Google reviews matter.
-- Keep the same product explanation.
-- Price is 299 kr. per month.
-- No binding.
-- Keep the CTA short and conversational.
-- Personalize using verified real information only.
-- Keep it concise and human.
-- Use an appropriate official published email/contact route.
-- For dentist/dental-clinic prospects, verify the current Google/Google Maps review count before drafting. Only use clinics with fewer than 30 Google reviews; skip clinics with 30 or more.
-- Use the VERIFIED review count in the email. Never guess or use an old/unverified count.
-- If comparing the clinic's review count with other dentists in the area as a factual claim, verify that comparison rather than assuming it.
+- DRAFTS ONLY. NEVER SEND AUTOMATICALLY.
+- Use an appropriate officially published email/contact route.
+- For dentist/dental-clinic prospects, verify the current Google/Google Maps review count before drafting.
+- Only use clinics with fewer than 30 Google reviews. Skip clinics with 30 or more.
+- Never guess a review count.
 - At the start of each run, load `data/excluded_emails.txt`, `data/excluded_facilities.txt`, and `data/exclusions-log.txt` once and use them as the working dedup list for the whole run.
-- These Dentist exclusion files are campaign-specific. Do not use exclusion lists from `agads007-sys/outreach-barebones` or another campaign.
+- These Dentist exclusions are campaign-specific. Do not use exclusion lists from `agads007-sys/outreach-barebones` or another campaign.
 - Never reuse a listed email or facility.
-- Keep every newly selected prospect in the working dedup list during the run so the same email or business cannot be selected twice in that run.
-- After all successful new drafts are created, append all new emails and facilities to `data/exclusions-log.txt` in one update.
-- When multiple connected Gmail accounts are available, spread new drafts across all seven accounts listed in `data/gmail_accounts.txt`; do not duplicate a prospect just to fill accounts.
+- Keep every newly selected prospect in the working dedup list during the run.
+- After successful new drafts are created, append all new emails and facilities to `data/exclusions-log.txt` in one update.
+- Spread new drafts across all seven Gmail accounts listed in `data/gmail_accounts.txt`; do not duplicate prospects merely to fill accounts.
