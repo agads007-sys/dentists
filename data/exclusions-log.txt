@@ -111,3 +111,30 @@ mail@tandsundhed.dk | Tandsundhed Herning
 kontakt@hillerodtandlagerne.dk | Hillerød Tandlægerne
 hilleroed@dentalklinikken.dk | Dentalklinikken Hillerød
 mail@slotstandlaegerne.dk | Slotstandlægerne
+
+# 2026-09-23 master-message dentist run
+mail@tandlaegernegronnegade.dk | Tandlægerne Grønnegade
+enebaervej4@os.dk | Tandlægerne Enebærvej
+centrum-odense@tandlaegen.dk | tandlægen.dk Centrum Odense
+mail@tdl-havnegade.dk | Tandlægerne Havnegade Esbjerg
+info@tandlaegekimkartvedt.dk | Tandlægeselskabet Kim Kartvedt
+esbjerg@tandlaegen.dk | tandlægen.dk Esbjerg
+mail@tandlaegefredericia.dk | Tandlægeteamet Fredericia
+klinik@tvtand.dk | Tandlægerne Vejlevej
+info@koegetand.dk | Tandlægehuset Køge
+info@dentalkoege.dk | Tandlægerne Stationspladsen Køge
+reception@dittandunivers.dk | DitTandUnivers
+dreslertand@yahoo.dk | Tandlæge Janne Dresler
+info@tandklinikkenravn.dk | Tandklinikken Ravn Strøby Egede
+mail@dittandcenter-slagelse.dk | Dittandcenter Slagelse
+tandlaegeteamet@mail.dk | Tandlægeteamet Heidi Nielsen
+tandklinik@samsson.dk | Samsson Implantat / Tandklinik Slagelse
+rosengade@harald.dk | Harald Tandlægerne Rosengade
+info@tandlind.dk | Tandlægehuset Linde Allé
+info@bydamstand.dk | Tandlægerne i Ballerup
+klinik@tandimidtpunkt.dk | Tandlægerne i Hørsholm Midtpunkt
+lyngby@tandlaegen.dk | tandlægen.dk Lyngby Implantatcenter
+info@tandlaege-reipurth.dk | Tandlægerne Reipurth
+cl@lyngbytandklinik.dk | Lyngby Tandklinik
+mail@tandlaegelm.dk | Tandlæge Susanne Brix
+kontakt@lyngbytandplejecenter.dk | Lyngby Tandplejecenter
