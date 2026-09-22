@@ -87,3 +87,12 @@ bronderslev@tandlaegen.dk | tandlægen.dk Brønderslev
 klinik@tandlaegehusetaars.dk | Tandlægehuset Aars
 info@byenstandlaeger.dk | Byens Tandlæger
 haderslevtandklinik@supertand.dk | Haderslev Tandklinik
+
+# 2026-09-22 dentist run (7 afternoon drafts)
+reception@tandlaegehusetaagade.dk | Tandlægehuset Ågade
+mail@tnpc.dk | Tandklinikken Nørreport Centret
+drhook@post.tele.dk | Tandlæge Niels Christian Krogh
+tandklinikken@brotorvet.dk | Tandklinikken Brotorvet
+info@teamfriis.com | Team Friis
+mail@slotsgadetand.dk | Tandlægerne Slotsgade
+info@tandtorv.dk | Tandlægerne Nørretorv
