@@ -1,0 +1,2 @@
+# Dentist Google-review outreach exclusion log
+# Append newly drafted clinic emails and facility names here after each successful run.
