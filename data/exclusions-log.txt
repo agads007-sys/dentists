@@ -187,3 +187,25 @@ tandklinikkenibellinge@gmail.com | Tandklinikken i Bellinge
 # 2026-09-24 dentist run (retry confirmed drafts)
 info@tandlaegerneihasseris.dk | Tandlægerne i Hasseris
 mail@tandlaegerneryesgade.dk | Tandlægerne Ryesgade
+
+# 2026-09-24 dentist run (remaining 20 confirmed drafts)
+kontakt@imperialtandklinik.dk | Imperial Tandklinik
+reception@borstingogejstrup.dk | dinTANDLÆGE Børsting & Ejstrup
+viborg@tandjust.dk | Tandlægerne Justesen, Viborg
+kontakt@tandvejle.dk | Tandlægerne Nørrebrogade 5
+tandlaegernesoenderaaparken@harald.dk | Harald Tandlægerne Sønderåparken
+smil@vindingtand.dk | Tandlægerne i Vindinggård Center
+kontakt@tandlaegerne-jernbanegade.dk | Tandlægerne Jernbanegade
+fredericia@smilecentret.dk | Smilecentret Fredericia
+info@tandhuset45.dk | Tandlægerne i Købmagergade
+sanne@bisser.dk | Tandlægerne Gerdes ApS
+domhusgade@oris.dk | ORIS Tandlægerne Domhusgade
+sundmund@tandklinikviborg.dk | Sund Mund Tandklinik Viborg
+info@oletandz.dk | OleTandZ
+info@alleklinikken.dk | Alléklinikken
+info@tandlaege-vanlose.dk | Ålekistevej Tandklinik
+info@implantat.nu | Amager Tandlæge Hus
+h.loechte@c.dk | Tandlæge Henrik Løchte
+klinik@charlotte-lebahn.dk | Tandlæge Charlotte Lebahn
+info@kindtanden.dk | Tandlæge Heidi Jørgensen
+info@tandsuhr.dk | Tandlæge Charlotte Maria Suhr
