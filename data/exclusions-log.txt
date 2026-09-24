@@ -183,3 +183,7 @@ info@biomedtand.dk | Tandlæge Susanne Rames
 info@godtand.dk | Godtand
 info@sehestedtand.dk | Dentist Copenhagen
 tandklinikkenibellinge@gmail.com | Tandklinikken i Bellinge
+
+# 2026-09-24 dentist run (retry confirmed drafts)
+info@tandlaegerneihasseris.dk | Tandlægerne i Hasseris
+mail@tandlaegerneryesgade.dk | Tandlægerne Ryesgade
