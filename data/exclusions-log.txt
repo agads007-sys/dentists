@@ -178,3 +178,8 @@ mail@tand.dk | Tandlægerne Sundhedens Hus
 
 # 2026-09-23 Aarhus verified draft
 info@biomedtand.dk | Tandlæge Susanne Rames
+
+# 2026-09-24 dentist run (confirmed drafts)
+info@godtand.dk | Godtand
+info@sehestedtand.dk | Dentist Copenhagen
+tandklinikkenibellinge@gmail.com | Tandklinikken i Bellinge
