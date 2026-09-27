@@ -13,4 +13,4 @@ gmail7 | michaelbdk2025@gmail.com | GMAIL7_APP_PASSWORD
 gmail8 | michaeldb2025@gmail.com | GMAIL8_APP_PASSWORD
 
 
-# Google-review outreach rule: when multiple Gmail accounts are available, spread new drafts across all seven accounts rather than concentrating them in one account. Drafts only; never send automatically.
+# Google-review outreach rule: when multiple Gmail accounts are available, spread new drafts across all accounts rather than concentrating them in one account. Drafts only; never send automatically.
