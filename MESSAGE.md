@@ -2,7 +2,7 @@
 
 ## NON-NEGOTIABLE: SAME MESSAGE, DIFFERENT WORDING
 
-Every dentist draft must communicate the SAME message below.
+Every draft must communicate the SAME message below.
 
 "Variation" means PARAPHRASE, not a new pitch.
 
@@ -21,10 +21,10 @@ Do NOT invent new angles, clinic-history stories, marketing arguments, benefits,
 
 ## The message that every email must preserve
 
-1. Michael came across the clinic on Google / while looking at dentists.
+1. Michael came across the clinic on Google / while looking at business.
 2. State the clinic's VERIFIED current Google review count.
-3. Michael compared the clinic with other dentists in the area and genuinely believes there is a lot of opportunity in getting more reviews.
-4. Explain the reason plainly: people looking for a dentist compare clinics on Google, and a large difference in review count matters when choosing between clinics.
+3. Michael compared the clinic with others in the area and genuinely believes there is a lot of opportunity in getting more reviews.
+4. Explain the reason plainly: people looking for a compare clinics on Google, and a large difference in review count matters when choosing between clinics.
 5. "Det er derfor, jeg skriver" / a natural paraphrase carrying exactly that meaning.
 6. Explain the product: after a patient visit, the clinic enters the patient's phone number. The patient gets an SMS with a direct link to the clinic's Google profile/review page and can leave a review immediately.
 7. Explain that this takes almost no time for the clinic, but doing it consistently with patients can make a major difference to how the clinic looks on Google over time.
@@ -149,11 +149,11 @@ Never invent details.
 
 - DRAFTS ONLY. NEVER SEND AUTOMATICALLY.
 - Use an appropriate officially published email/contact route.
-- For dentist/dental-clinic prospects, verify the current Google/Google Maps review count before drafting.
+- verify the current Google/Google Maps review count before drafting.
 - Only use clinics with fewer than 30 Google reviews. Skip clinics with 30 or more.
 - Never guess a review count.
 - At the start of each run, load `data/excluded_emails.txt`, `data/excluded_facilities.txt`, and `data/exclusions-log.txt` once and use them as the working dedup list for the whole run.
-- These Dentist exclusions are campaign-specific. Do not use exclusion lists from `agads007-sys/outreach-barebones` or another campaign.
+- These exclusions are campaign-specific. Do not use exclusion lists from `agads007-sys/outreach-barebones` or another campaign.
 - Never reuse a listed email or facility.
 - Keep every newly selected prospect in the working dedup list during the run.
 - After successful new drafts are created, append all new emails and facilities to `data/exclusions-log.txt` in one update.
