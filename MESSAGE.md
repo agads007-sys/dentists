@@ -157,4 +157,4 @@ Never invent details.
 - Never reuse a listed email or facility.
 - Keep every newly selected prospect in the working dedup list during the run.
 - After successful new drafts are created, append all new emails and facilities to `data/exclusions-log.txt` in one update.
-- Spread new drafts across all seven Gmail accounts listed in `data/gmail_accounts.txt`; do not duplicate prospects merely to fill accounts.
+- Spread new drafts across all Gmail accounts listed in `data/gmail_accounts.txt`; do not duplicate prospects merely to fill accounts.
