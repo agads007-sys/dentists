@@ -447,3 +447,31 @@ bente@archa.dk | Advokatfirmaet Archa
 ks@knudsander.dk | Advokatfirmaet Knud Sander
 ps@pallesvendsen.dk | Advokatfirmaet Palle Svendsen
 shf@kasusadvokater.dk | KASUS Advokater
+
+# 2026-09-28 law and accounting Google-review run (25 additional confirmed drafts)
+sb@stadsrevisionen.dk | Stadsrevisionen Danmark
+jli@innova-law.com | INNOVA Advokatfirma
+info@sjregnskabstjenester.dk | SJ Regnskabstjenester ApS
+lars@loj.dk | Larsen & Jakobsen ApS
+cbm@advohus.dk | Strauss & Garlik
+sbm@interlex.dk | INTERLEX Advokater
+mfo@holst-law.com | Holst Advokater
+lel@clemenslaw.com | CLEMENS Advokater
+ili@astria.dk | Astria Advokater
+bo@revisorgaarden-odense.dk | Revisorgården i Odense
+morten@advokatknoth.dk | Advokatfirmaet Morten Knoth
+tl@ajouradvokater.dk | Ajour Advokater
+sdj@abnlaw.dk | Advokatfirmaet Børge Nielsen
+chs@skj-advokat.dk | Advokatfirmaet Skjøde Knudsen & Partnere
+ba@kirklarsen.dk | Kirk Larsen & Ascanius
+hhr@tblaw.dk | Thuesen Bødker & Jæger
+post@saedding-revision.dk | Sædding Revision
+als@penta.dk | Penta Advokater Esbjerg
+info@refning.dk | Advokat Thomas Refning Poulsen
+randers@ret-raad.dk | Ret&Råd Advokater Randers
+pv@valentinregnskab.dk | Valentin Regnskab
+mgs@codexlaw.dk | Codex Advokater
+ba@saxoadvokater.dk | Saxo Advokaterne
+chbn@advodan.dk | ADVODAN Vejle Hedensted
+am@lexjuris.dk | LEXJURIS Advokatfirma
+
