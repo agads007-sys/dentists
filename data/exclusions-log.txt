@@ -426,18 +426,18 @@ hps@leoniadvokater.dk | Leoni Advokater Viborg
 tlc@horstmann.dk | Horstmann advokater
 lb@jeba.dk | JEBA ApS
 
-# 2026-09-27 law and accounting Google-review run (consent-confirmed drafts)
-wtc@wtc.dk | WTC advokaterne
-tc@vilsoe.dk | Vilsøe Boligadvokater
-ff@nemadvokat.dk | NEMADVOKAT
-info@ajouradvokater.dk | Ajour Advokater ApS
-mail@ideal-law.dk | IDEAL Advokatfirma P/S
-info@regnskab4mig.dk | Regnskab 4 Mig
-bo@revisorgaarden-odense.dk | Revisorgården I Odense ApS
-kontakt@e-revisor.com | e-revisor.com godkendt revisionspartnerselskab
-kontakt@loj.dk | Larsen & Jakobsen ApS
-randers@ret-raad.dk | Ret&Råd Advokater Randers
-rk@adv-eegholm.dk | Advokathuset Eegholm ApS
-info@refning.dk | Advokat Thomas Refning Poulsen
+# 2026-09-27 law and accounting Google-review run (decision-maker audited drafts)
+hr@hansrohde.dk | Advokatfirmaet Hans Rohde
+kha@hvolbaekadvokater.dk | Hvolbæk Advokater
+jn@onrevision.dk | ONreVISION
+esh@frankadvokater.dk | Frank Advokater
+lars@revisor-jeppesen.dk | Revisionsfirmaet Lars Jeppesen
+ne@advokaterlandsen.dk | Advokat Niels Erlandsen
+dm@denlilleokonom.dk | Den Lille Økonom
+thomas@andersenlaw.dk | Grønbek Andersen Advokatfirma
+anders@kroneadvokater.dk | Krone Advokater
+fj@fjlaw.dk | Advokatfirmaet Flemming Jensen
+preben@jeresrevisor.dk | De Små Revisorer
+jonas@daniaregnskab.dk | Dania Regnskab ApS
 tj@thomasjaeger.dk | Advokatfirmaet Thomas Jæger
 
