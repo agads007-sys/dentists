@@ -742,3 +742,10 @@ roedding@dentist.dk | Dentist.dk Rødding
 skaerbaek@dentist.dk | Dentist.dk Skærbæk
 toender@dentist.dk | Dentist.dk Tønder
 odder@dentist.dk | Dentist.dk Odder
+
+# 2026-10-01 dentist Google-review outreach batch 5
+ringkoebing@dentist.dk | Dentist.dk Ringkøbing
+langeskov@dentist.dk | Dentist.dk Langeskov
+info@skantand.dk | Tandlæge Kristian Kirkevang
+info@tandvejen.dk | Tandlæge Inger Buchwald
+holtet@aarhus-tandlaege.dk | Tandlæge Hanne Holtet
