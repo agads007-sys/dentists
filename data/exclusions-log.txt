@@ -735,3 +735,10 @@ holstebro@dentist.dk | Dentist.dk Holstebro
 augustenborg@dentist.dk | Dentist.dk Augustenborg
 egtved@dentist.dk | Dentist.dk Egtved
 otterup@dentist.dk | Dentist.dk Otterup
+
+# 2026-10-01 dentist Google-review outreach batch 4
+ishoej@dentist.dk | Dentist.dk Ishøj
+roedding@dentist.dk | Dentist.dk Rødding
+skaerbaek@dentist.dk | Dentist.dk Skærbæk
+toender@dentist.dk | Dentist.dk Tønder
+odder@dentist.dk | Dentist.dk Odder
