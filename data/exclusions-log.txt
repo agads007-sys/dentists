@@ -637,3 +637,10 @@ info@tandlaegernepaatorvet.com | Tandlægerne på Torvet Haslev
 karise@tandlaegen.dk | tandlægen.dk Karise
 info@jernbanevej.dk | Tandlægeselskabet Adamsen
 mail@tandskovbrynet.dk | Tandlægerne på Skovbrynet
+
+# 2026-09-30 dentist Google-review run (current batch 5)
+goerlevtand@goerlevtand.dk | Gørlev Tandlæge
+info@bymidtens-tandplejecenter.dk | Bymidtens Tandplejecenter
+klinikken@stenlilletandplejecenter.dk | Stenlille Tandplejecenter
+info@vig-tandregulering.dk | Vig Tandregulering
+patient@tandreguleringsklinikken.dk | Tandreguleringsklinikken Viborg
