@@ -714,3 +714,10 @@ info@kastanietand.dk | Kastanie Tand
 info@brammingtand.dk | Tandlægerne Toft
 ribe@dentist.dk | Dentist.dk Ribe
 mail@kpstand.dk | Tandlægerne Kissow Petersen
+
+# 2026-10-01 dentist Google-review outreach batch 1
+kalundborg@tandregulering.dk | Tandregulering.dk Kalundborg
+info@nykoebing-tandklinik.dk | Nykøbing Tandklinik
+detgulepakhus@oris.dk | ORIS Tandlægerne Det Gule Pakhus
+kold@oris.dk | ORIS Tandlægerne Kold
+kolding@tandlaegen.dk | tandlægen.dk Kolding
