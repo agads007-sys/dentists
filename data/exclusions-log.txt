@@ -728,3 +728,10 @@ info@specialtand.dk | Specialtandlægerne ved Farøbroerne
 roenne@tandlaegen.dk | tandlægen.dk Rønne
 hoejbjerg@tandlaegen.dk | tandlægen.dk Højbjerg
 aarhus@tandlaegen.dk | tandlægen.dk Aarhus C
+
+# 2026-10-01 dentist Google-review outreach batch 3
+ikast@tandlaegen.dk | tandlægen.dk Ikast
+holstebro@dentist.dk | Dentist.dk Holstebro
+augustenborg@dentist.dk | Dentist.dk Augustenborg
+egtved@dentist.dk | Dentist.dk Egtved
+otterup@dentist.dk | Dentist.dk Otterup
