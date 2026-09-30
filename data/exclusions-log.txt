@@ -672,3 +672,10 @@ info@roendetand.dk | Rønde Tandlægeklinik
 horntand@mail.dk | Tandlægerne Nissen og Jensen
 info@kjtand.dk | Kjellerup Tandlægecenter
 post@thorningtand.dk | Tandlægerne i Thorning
+
+# 2026-09-30 dentist Google-review run (evening batch 5)
+info@aalestruptandklinik.dk | Aalestrup Tandklinik
+info@noeragertandklinik.com | Nørager Tandklinik
+info@oerstedtand.dk | Tandlægehuset Ørsted
+tandlaegen@farsoetand.dk | Farsø Tandlægehus
+info@frisksmil.dk | Tandlægerne i Auning
