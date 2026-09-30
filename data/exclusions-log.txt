@@ -658,3 +658,10 @@ info@boruptand.dk | Tandlægehuset i Borup
 tand@haarlevtandlaegerne.dk | Hårlevtandlægerne
 info@galtentandlaeger.dk | Tandlægerne Søndergade Galten
 klinik@tranbjergtand.dk | Tandlægerne Tranbjerg
+
+# 2026-09-30 dentist Google-review run (evening batch 3)
+klinikken@tdlskou.dk | Tandlægerne Skou
+hammel@oris.dk | ORIS Tandlægerne Hammel
+ellen@86951205.dk | Tandlæge Ellen Larsen
+info@tandlaegegalten.dk | Tandlægernes Hus Galten
+info@them-tand.dk | Tandlægerne Them
