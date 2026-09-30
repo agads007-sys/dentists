@@ -651,3 +651,10 @@ tinghuset@tt4.dk | Tandlægerne i Tinghuset
 info@bogensetand.dk | Bogense Tandklinik
 kontakt@tandklinikkenvestfyn.dk | Tandklinikken Vestfyn
 klinik@aaruptandlaegerne.dk | Aarup Tandlægerne
+
+# 2026-09-30 dentist Google-review run (evening batch 2)
+info@bysoetand.dk | Holbæk Tandlægerne
+info@boruptand.dk | Tandlægehuset i Borup
+tand@haarlevtandlaegerne.dk | Hårlevtandlægerne
+info@galtentandlaeger.dk | Tandlægerne Søndergade Galten
+klinik@tranbjergtand.dk | Tandlægerne Tranbjerg
