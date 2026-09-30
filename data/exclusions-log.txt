@@ -721,3 +721,10 @@ info@nykoebing-tandklinik.dk | Nykøbing Tandklinik
 detgulepakhus@oris.dk | ORIS Tandlægerne Det Gule Pakhus
 kold@oris.dk | ORIS Tandlægerne Kold
 kolding@tandlaegen.dk | tandlægen.dk Kolding
+
+# 2026-10-01 dentist Google-review outreach batch 2
+bente@bunke.dk | dinTANDLÆGE Bente Bunke
+info@specialtand.dk | Specialtandlægerne ved Farøbroerne
+roenne@tandlaegen.dk | tandlægen.dk Rønne
+hoejbjerg@tandlaegen.dk | tandlægen.dk Højbjerg
+aarhus@tandlaegen.dk | tandlægen.dk Aarhus C
