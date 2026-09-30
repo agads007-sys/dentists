@@ -602,3 +602,10 @@ kontakt@matilde-brandt.dk | Tandlæge Matilde Brandt
 info@tandklinikken-sydfyn.dk | Tandklinikken Sydfyn
 mail@tandregulering-svendborg.dk | Specialtandlæge Barbara Rank
 info@etsikkertsmil.dk | Tandlægerne Sundhedshuset Svendborg
+
+# 2026-09-30 dentist Google-review run (5 confirmed drafts)
+info@smilelounge.dk | Hørsholm Tandklinik ApS / Smile Lounge
+mail@tandrosen.dk | Tandlægegruppen Rosenhøj
+kontakt@tandlaegernehvidovrevej139.dk | Tandlægerne Hvidovrevej 139
+hvidovretand@mail.dk | Tandlægerne Cevik, Munk & Schmidt
+info@tandlaegerunebergsalle.dk | Tandlægeklinikken Runebergs Alle 1A v/Charlotte Hermann Gori
