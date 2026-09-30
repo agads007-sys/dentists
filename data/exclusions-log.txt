@@ -665,3 +665,10 @@ hammel@oris.dk | ORIS Tandlægerne Hammel
 ellen@86951205.dk | Tandlæge Ellen Larsen
 info@tandlaegegalten.dk | Tandlægernes Hus Galten
 info@them-tand.dk | Tandlægerne Them
+
+# 2026-09-30 dentist Google-review run (evening batch 4)
+mhj@ebeltand.dk | Ebeltand
+info@roendetand.dk | Rønde Tandlægeklinik
+horntand@mail.dk | Tandlægerne Nissen og Jensen
+info@kjtand.dk | Kjellerup Tandlægecenter
+post@thorningtand.dk | Tandlægerne i Thorning
