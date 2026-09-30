@@ -707,3 +707,10 @@ info@tandlaegerne-skjern.dk | Tandlægerne Obling, Rudebeck og Naur
 info@densundemund.dk | Tømmergårdens Tandlæger
 info@tandlaegernevidebaek.dk | Tandlægerne Videbæk
 post@tandlaegerne-aulum.dk | Tandlægerne i Aulum
+
+# 2026-10-01 dentist Google-review run (batch 5)
+adm@tandgod.dk | Tandlægerne i Ølgod
+info@kastanietand.dk | Kastanie Tand
+info@brammingtand.dk | Tandlægerne Toft
+ribe@dentist.dk | Dentist.dk Ribe
+mail@kpstand.dk | Tandlægerne Kissow Petersen
