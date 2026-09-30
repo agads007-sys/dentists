@@ -644,3 +644,10 @@ info@bymidtens-tandplejecenter.dk | Bymidtens Tandplejecenter
 klinikken@stenlilletandplejecenter.dk | Stenlille Tandplejecenter
 info@vig-tandregulering.dk | Vig Tandregulering
 patient@tandreguleringsklinikken.dk | Tandreguleringsklinikken Viborg
+
+# 2026-09-30 dentist Google-review run (evening batch 1)
+klinik@barkmann.dk | Tandlæge Barkmann ApS
+kronborgvej@c.dk | Tandlæge Lisbeth Damgaard ApS
+info@bogensetand.dk | Bogense Tandklinik
+kontakt@tandklinikkenvestfyn.dk | Tandklinikken Vestfyn
+klinik@aaruptandlaegerne.dk | Aarup Tandlægerne
