@@ -693,3 +693,10 @@ info@tandlaegernesvenstruptorv.dk | Tandlægerne Svenstrup Torv
 tandlaegehuset-vodskov@stofanet.dk | Tandlægehuset i Vodskov
 kontakt@tandlaegernehjallerup.dk | Tandlægerne Hjallerup
 tand@tdldronninglund.dk | Tandlægerne i Dronninglund
+
+# 2026-10-01 dentist Google-review run (batch 3)
+jensby@sindaltand.dk | dinTANDLÆGE Sindal
+tandlaegernebrovst@harald.dk | Harald Tandlægerne Brovst
+info@dalldental.dk | Dall Dental
+mail@tandlaegernegandrup.dk | Tandlægerne Gandrup
+adm@gistruptand.dk | Tandlægerne i Gistrup
