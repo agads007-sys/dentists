@@ -590,7 +590,7 @@ vejen@tandlaegen.dk | tandlægen.dk Vejen
 tjeletand@tjeletand.dk | Tandlægerne i Tjele
 
 # 2026-09-30 dentist Google-review run (5 confirmed drafts)
-kronborgvej@c.dk | Tandlæge Lisbeth Damgaard
+regli@youmail.dk | Tandlægerne Dampmøllen
 info@steenhandersen.dk | Tandlæge Steen H. Andersen
 info@tandlaegerne-nordfalster.dk | Tandlægerne på Nordfalster
 sakskoebing@tandlaegen.dk | tandlægen.dk Sakskøbing
