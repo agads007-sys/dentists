@@ -623,3 +623,10 @@ klinik@tandklinikkenlilletorv.dk | Tandklinikken Lille Torv
 klinik3740@gmail.com | Tandlæge Niels Dam
 kentmortensen@kentmortensen.dk | Tandlæge Kent Mortensen
 info@ibhogholmberg.dk | Tandlægerne Ibh & Holmberg
+
+# 2026-09-30 dentist Google-review run (current batch 3)
+dorte@vordingborgtandlaegerne.dk | Tandlæge Dorte Lassen Andersen
+mail@klinikholmberg.dk | Klinik Holmberg Møn
+jctand@harald.dk | Harald Tandlæge Jacob Christensen Præstø
+kontakt@faxetandlaegeklinik.dk | Faxe Tandlægeklinik
+tandlaege@haslevtandlaegehus.dk | Haslev Tandlægehus
