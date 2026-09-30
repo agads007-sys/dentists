@@ -700,3 +700,10 @@ tandlaegernebrovst@harald.dk | Harald Tandlægerne Brovst
 info@dalldental.dk | Dall Dental
 mail@tandlaegernegandrup.dk | Tandlægerne Gandrup
 adm@gistruptand.dk | Tandlægerne i Gistrup
+
+# 2026-10-01 dentist Google-review run (batch 4)
+kontor@tandlaegehuset-skjern.dk | Tandlægehuset Skjern
+info@tandlaegerne-skjern.dk | Tandlægerne Obling, Rudebeck og Naur
+info@densundemund.dk | Tømmergårdens Tandlæger
+info@tandlaegernevidebaek.dk | Tandlægerne Videbæk
+post@tandlaegerne-aulum.dk | Tandlægerne i Aulum
