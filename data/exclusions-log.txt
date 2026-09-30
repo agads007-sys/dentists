@@ -616,3 +616,10 @@ Saadhanstholm@gmail.com | Tandlæge Saad Hanstholm
 info@sydthytand.dk | Sydthy Tandklinik
 klinikken@skagentand.dk | Tandlæge Heidi Kromann / Skagen Tand
 jens@saebytandlaegen.dk | Sæby Tandlægen v/ Jens Vollbrecht
+
+# 2026-09-30 dentist Google-review run (current batch 2)
+tandlaege@snellemark32.dk | Bornholms Tandklinik
+klinik@tandklinikkenlilletorv.dk | Tandklinikken Lille Torv
+klinik3740@gmail.com | Tandlæge Niels Dam
+kentmortensen@kentmortensen.dk | Tandlæge Kent Mortensen
+info@ibhogholmberg.dk | Tandlægerne Ibh & Holmberg
