@@ -647,7 +647,7 @@ patient@tandreguleringsklinikken.dk | Tandreguleringsklinikken Viborg
 
 # 2026-09-30 dentist Google-review run (evening batch 1)
 klinik@barkmann.dk | Tandlæge Barkmann ApS
-kronborgvej@c.dk | Tandlæge Lisbeth Damgaard ApS
+tinghuset@tt4.dk | Tandlægerne i Tinghuset
 info@bogensetand.dk | Bogense Tandklinik
 kontakt@tandklinikkenvestfyn.dk | Tandklinikken Vestfyn
 klinik@aaruptandlaegerne.dk | Aarup Tandlægerne
