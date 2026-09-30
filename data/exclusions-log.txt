@@ -630,3 +630,10 @@ mail@klinikholmberg.dk | Klinik Holmberg Møn
 jctand@harald.dk | Harald Tandlæge Jacob Christensen Præstø
 kontakt@faxetandlaegeklinik.dk | Faxe Tandlægeklinik
 tandlaege@haslevtandlaegehus.dk | Haslev Tandlægehus
+
+# 2026-09-30 dentist Google-review run (current batch 4)
+klinik@tandstation.dk | Tandlægerne Stationspladsen
+info@tandlaegernepaatorvet.com | Tandlægerne på Torvet Haslev
+karise@tandlaegen.dk | tandlægen.dk Karise
+info@jernbanevej.dk | Tandlægeselskabet Adamsen
+mail@tandskovbrynet.dk | Tandlægerne på Skovbrynet
