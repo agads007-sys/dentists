@@ -686,3 +686,10 @@ info@storegade3.dk | Tandlægerne Hedegaard & Kjærgaard
 info@1tdl.dk | Tandlægerne Løgstør
 mail@mariager-tandlaegehus.dk | Mariager Tandlægehus
 info@tandlaeger-stovring.dk | Tandlægerne Grangårdscentret
+
+# 2026-10-01 dentist Google-review run (batch 2)
+tandmail@mail.dk | Nibe Tandklinik
+info@tandlaegernesvenstruptorv.dk | Tandlægerne Svenstrup Torv
+tandlaegehuset-vodskov@stofanet.dk | Tandlægehuset i Vodskov
+kontakt@tandlaegernehjallerup.dk | Tandlægerne Hjallerup
+tand@tdldronninglund.dk | Tandlægerne i Dronninglund
