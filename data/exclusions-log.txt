@@ -840,3 +840,10 @@ mail@tandonline.dk | Tandlæge Alexander Mikkelsen
 receptionen@amagerbro-tandklinik.dk | Amagerbro Tandklinik
 Husum@dentalklinikken.dk | Dentalklinikken Husum
 mail@tdldronningegaarden.dk | Tandlægerne i Dronningegården
+
+# 2026-10-01 dentist Google-review outreach second run batch 5
+hej@tandlaegepraxis.dk | Tandlægeselskabet PRAXIS ApS
+tandlaegerne@fredensborghus.dk | Tandlægerne Fredensborghus
+mail@lejretand.dk | Lejretandlægerne
+info@baktus.info | Espergærde Tandlægerne
+info@ntand.dk | Nordsjællands TandlægeCenter
