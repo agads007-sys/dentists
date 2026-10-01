@@ -784,3 +784,10 @@ herning@dentist.dk | Dentist.dk Herning
 vojens@dentist.dk | Dentist.dk Vojens
 info@stroeget29.dk | Tandlægerne Strøget 29
 varde@colosseumklinikken.dk | Colosseum Tandlægerne Varde
+
+# 2026-10-01 dentist Google-review outreach second run batch 4
+herlev@colosseumklinikken.dk | Colosseum Tandlægerne Herlev
+dragoer@colosseumklinikken.dk | Colosseum Tandlægerne Dragør
+hoersholm@colosseumklinikken.dk | Colosseum Tandlægerne Hørsholm
+ballerup@colosseumklinikken.dk | Colosseum Tandlægerne Ballerup
+slagelse@colosseumklinikken.dk | Colosseum Tandlægerne Slagelse
