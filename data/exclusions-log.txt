@@ -854,3 +854,10 @@ info@egedaltand.dk | Egedal Tandlægerne
 info@tandhuset.nu | Tandhuset Smørum
 info@tandlaegehuset.net | Tandlægehuset i Måløv
 info@lyngetand.dk | Tandlæge Jan Girotti
+
+# 2026-10-01 dentist Google-review outreach run batch 2
+kontakt@tandlaege-ballerup.dk | Tandlægerne i Centrum v/Hanne Laugesen
+kollehus@kollehus.dk | Tandlægerne i Kollehus
+info@holteklinikken.dk | Holte Klinikken
+tandklinikken.holte@gmail.com | Tandlægerne Holte Midtpunkt
+info@holtetandklinik.dk | Holte Tandklinik
