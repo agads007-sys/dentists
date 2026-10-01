@@ -819,3 +819,10 @@ post@givetand.dk | Give Tandlægehus
 tandlaegehusetstoevring@harald.dk | Harald Tandlægerne Støvring
 helenestraede@harald.dk | Harald Tandlægerne Helenestræde
 klinik@tandjuel.dk | Tandlægerne Juelsminde
+
+# 2026-10-01 dentist Google-review outreach second run batch 2
+kontakt@tandlaegejust.dk | Tandlægehuset Annemette Just
+info@almera.dk | Tandklinikken Almera
+info@tandlaegehuset-ubby.dk | Tandlægehuset Ubby
+helsevej@helsevej3.dk | Tandlægerne Helsevej
+info@tandlaegehusetbroby.dk | Tandlægehuset Broby
