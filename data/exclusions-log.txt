@@ -763,3 +763,10 @@ islandsbrygge@tandlaegen.dk | tandlægen.dk Islands Brygge
 herlev@tandlaegen.dk | tandlægen.dk Herlev
 bagsvaerd@tandlaegen.dk | tandlægen.dk Bagsværd
 tand2@tand2.dk | TAND2 / Tandlægerne Amagerbrogade 2
+
+# 2026-10-01 dentist Google-review outreach second run batch 3
+kontakt@trinewichmann.dk | Tandlæge Trine Wichmann
+info@tandklinikkenamager.dk | Tandklinikken Amagerbrogade 195
+mail@jagtvej101.dk | Tandlægerne Jagtvej 101
+kontakt@kbtand.dk | Tandlæge Kirstine Baadegaard
+tand@ohlendorff.com | Tandlægepraksis Lisbeth Annette Ohlendorff
