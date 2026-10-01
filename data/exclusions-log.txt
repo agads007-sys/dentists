@@ -847,3 +847,10 @@ tandlaegerne@fredensborghus.dk | Tandlægerne Fredensborghus
 mail@lejretand.dk | Lejretandlægerne
 info@baktus.info | Espergærde Tandlægerne
 info@ntand.dk | Nordsjællands TandlægeCenter
+
+# 2026-10-01 dentist Google-review outreach run batch 1
+info@tandtid.dk | Bergstrøms Tandklinik
+info@egedaltand.dk | Egedal Tandlægerne
+info@tandhuset.nu | Tandhuset Smørum
+info@tandlaegehuset.net | Tandlægehuset i Måløv
+info@lyngetand.dk | Tandlæge Jan Girotti
