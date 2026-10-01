@@ -749,3 +749,10 @@ langeskov@dentist.dk | Dentist.dk Langeskov
 info@skantand.dk | Tandlæge Kristian Kirkevang
 info@tandvejen.dk | Tandlæge Inger Buchwald
 holtet@aarhus-tandlaege.dk | Tandlæge Hanne Holtet
+
+# 2026-10-01 dentist Google-review outreach second run batch 1
+aeroe@tandlaegen.dk | tandlægen.dk Ærø
+ringe@tandlaegen.dk | tandlægen.dk Ringe
+broendby@tandlaegen.dk | tandlægen.dk Brøndby
+oesterbro@tandlaegen.dk | tandlægen.dk Østerbro
+forum@tandlaegen.dk | tandlægen.dk Forum implantatcenter
