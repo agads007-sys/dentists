@@ -791,3 +791,10 @@ dragoer@colosseumklinikken.dk | Colosseum Tandlægerne Dragør
 hoersholm@colosseumklinikken.dk | Colosseum Tandlægerne Hørsholm
 ballerup@colosseumklinikken.dk | Colosseum Tandlægerne Ballerup
 slagelse@colosseumklinikken.dk | Colosseum Tandlægerne Slagelse
+
+# 2026-10-01 dentist Google-review outreach second run batch 5
+koege@colosseumklinikken.dk | Colosseum Tandlægerne Køge
+kronprinsessegade@colosseumklinikken.dk | Tandlæge Kronprinsessegade
+oesterport@colosseumklinikken.dk | Colosseum Tandlægerne Østerport
+broendby@colosseumklinikken.dk | Colosseum Tandlægerne Brøndby
+kontakt@tandklinikken-ordrupvej.dk | Tandklinikken Ordrupvej
