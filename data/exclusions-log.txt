@@ -833,3 +833,10 @@ tandsten@mail.dk | Tandlægerne i Centrum Helsingør
 mail@tandlaegek.dk | Tandlæge K
 info@implantatklinik.dk | Implantatklinik København
 info@dintandlaege-humlebaek.dk | dinTANDLÆGE Humlebæk
+
+# 2026-10-01 dentist Google-review outreach second run batch 4
+info@specialistklinik.dk | Specialistklinikken for Tandregulering
+mail@tandonline.dk | Tandlæge Alexander Mikkelsen
+receptionen@amagerbro-tandklinik.dk | Amagerbro Tandklinik
+Husum@dentalklinikken.dk | Dentalklinikken Husum
+mail@tdldronningegaarden.dk | Tandlægerne i Dronningegården
