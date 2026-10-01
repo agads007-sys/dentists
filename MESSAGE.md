@@ -61,6 +61,8 @@ Skal jeg vise jer det?
 
 Mvh
 Michael
+Dansk Administrationsbureau
+
 
 ## What good variation looks like
 
@@ -105,6 +107,7 @@ Across a batch:
 - Rewrite the setup/price/no-binding sentence in multiple genuinely different ways.
 - Vary the final conviction sentence.
 - Vary the CTA.
+- Always write Dansk Administrationsbureau under Michael like the message
 
 But ALWAYS preserve the same message and all 13 core points above.
 
