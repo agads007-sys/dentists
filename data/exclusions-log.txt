@@ -826,3 +826,10 @@ info@almera.dk | Tandklinikken Almera
 info@tandlaegehuset-ubby.dk | Tandlægehuset Ubby
 helsevej@helsevej3.dk | Tandlægerne Helsevej
 info@tandlaegehusetbroby.dk | Tandlægehuset Broby
+
+# 2026-10-01 dentist Google-review outreach second run batch 3
+mail@tandlaegerneisnedsted.dk | Tandlægerne i Snedsted
+tandsten@mail.dk | Tandlægerne i Centrum Helsingør
+mail@tandlaegek.dk | Tandlæge K
+info@implantatklinik.dk | Implantatklinik København
+info@dintandlaege-humlebaek.dk | dinTANDLÆGE Humlebæk
