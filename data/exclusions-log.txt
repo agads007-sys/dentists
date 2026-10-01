@@ -861,3 +861,10 @@ kollehus@kollehus.dk | Tandlægerne i Kollehus
 info@holteklinikken.dk | Holte Klinikken
 tandklinikken.holte@gmail.com | Tandlægerne Holte Midtpunkt
 info@holtetandklinik.dk | Holte Tandklinik
+
+# 2026-10-01 dentist Google-review outreach run batch 3
+mail@furesoetand.dk | Furesø Tandlægerne
+info@hareskovklinikken.dk | Hareskovklinikken
+klinik@crilles.net | Tandlæge Jørgen Crilles Petersen
+klinik@farumtand.dk | Farum Tandplejecenter
+farummidtpunkttandklinik@outlook.dk | Tandklinikken Farum Midtpunkt
