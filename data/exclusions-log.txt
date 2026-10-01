@@ -875,3 +875,10 @@ kontakt@trorodtand.dk | Tandlægerne Bekker-Gregersen Trørød Torv
 ml@rungstedtand.dk | Rungstedtand
 kontakt@dronningedamklinikken.dk | Dronningedamklinikken
 reception@humlebaektand.dk | Tandlægerne i Humlebæk Lægehus
+
+# 2026-10-01 dentist Google-review outreach run batch 5
+mail@graested-tand.dk | Tandlægerne i Hovedgaden
+info@tandvaerk.dk | Tandlægerne i Frederiksværk
+tand.bmn@mail.dk | Tandlæge Birger Mølgaard Nielsen
+hundested-tand@webspeed.dk | Tandlæge Svend Ulrich Jensen
+klinik@pc.dk | Tandlægeklinikken i Skævinge
