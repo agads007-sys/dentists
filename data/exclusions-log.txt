@@ -756,3 +756,10 @@ ringe@tandlaegen.dk | tandlægen.dk Ringe
 broendby@tandlaegen.dk | tandlægen.dk Brøndby
 oesterbro@tandlaegen.dk | tandlægen.dk Østerbro
 forum@tandlaegen.dk | tandlægen.dk Forum implantatcenter
+
+# 2026-10-01 dentist Google-review outreach second run batch 2
+lyngby-svanen@tandlaegen.dk | tandlægen.dk Lyngby Svanen
+islandsbrygge@tandlaegen.dk | tandlægen.dk Islands Brygge
+herlev@tandlaegen.dk | tandlægen.dk Herlev
+bagsvaerd@tandlaegen.dk | tandlægen.dk Bagsværd
+tand2@tand2.dk | TAND2 / Tandlægerne Amagerbrogade 2
