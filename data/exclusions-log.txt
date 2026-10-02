@@ -1038,3 +1038,10 @@ kontakt@esbjerg-tand.dk | Tandklinikken Kongensgade
 kontakt@mintand.dk | Tandlægerne Strandbysvinget
 mail@jernetand.dk | Tandlægerne Jerne Torv
 Tandlaegenkirkegade@mail.dk | Tandlægen Kirkegade
+
+# 2026-10-02 dentist Google-review independent late run batch 2
+info@aarhustandklinik.dk | Aarhus Tandklinik
+klinik@tandlaegeteamet.dk | Tandlægeteamet
+tdl@smildubare.dk | Tandlægerne Banegårdspladsen 10
+info@barslevtand.dk | Barslev Tandklinik
+info@tandteamet.com | Tandteamet Refslund & Ørts
