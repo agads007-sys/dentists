@@ -1168,3 +1168,10 @@ info@them-tand.dk | Tandlægerne Them
 tdl.moeldrup@mail.dk | Tandlægerne i Møldrup
 aulum@tandlaegerne-herning.dk | Tandlægerne i Aulum
 post@thorningtand.dk | Tandlægerne i Thorning
+
+# 2026-10-03 dentist Google-review outreach workflow batch 5
+info@tandklinikken-engesvang.dk | Tandlægerne Engesvang ApS
+info@vivildtand.dk | Tandlægerne i Vivild
+info@kjtand.dk | Kjellerup Tandlægecenter
+kontakt@tand8320.dk | Tandlægerne i Mårslet
+info@oerstedtand.dk | Tandlægehuset Ørsted
