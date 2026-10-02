@@ -1066,3 +1066,7 @@ tandlaege@perletand.dk | Perletand / Tandklinikken Perlegade 13 ApS
 k@rstoft.dk | Tandlægerne Kimmo Karstoft
 info@solsidetand.dk | Tandlægerne på Solsiden
 klinik@larsjohannesen.dk | Specialtandlæge Lars Johannesen
+
+# 2026-10-02 dentist Google-review independent late-night run batch 3 (partial; stop rule)
+info@hhtand.dk | Tandlægerne v/Henrik Hegermann
+klinikken@tandbo.dk | Tandlægerne Boulevardhuset
