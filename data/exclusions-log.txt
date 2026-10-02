@@ -1091,3 +1091,7 @@ klinik@barkmann.dk | Tandlæge Barkmann ApS
 klinik@damkragelund.dk | Tandlægerne Dam & Kragelund
 st@laesoe.dk | Tandlæge Sven Thyø
 mail@tand-saltumvej.dk | Tandlæge Per Gaunø Jensen ApS
+
+# 2026-10-03 dentist Google-review outreach run batch 3 (partial; stop rule)
+klinikken@skagentand.dk | Skagen Tand / Tandlæge Heidi Kromann
+jens@saebytandlaegen.dk | Sæby Tandlægen v/ Jens Vollbrecht
