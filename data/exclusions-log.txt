@@ -1095,3 +1095,10 @@ mail@tand-saltumvej.dk | Tandlæge Per Gaunø Jensen ApS
 # 2026-10-03 dentist Google-review outreach run batch 3 (partial; stop rule)
 klinikken@skagentand.dk | Skagen Tand / Tandlæge Heidi Kromann
 jens@saebytandlaegen.dk | Sæby Tandlægen v/ Jens Vollbrecht
+
+# 2026-10-03 dentist Google-review outreach run batch 1
+info@bogensetand.dk | Bogense Tandklinik
+tandlaege@haslevtandlaegehus.dk | Haslev Tandlægehus ApS
+mail@klinikholmberg.dk | Klinik Holmberg, Møn
+jctand@harald.dk | Harald Tandlæge Jacob Christensen
+soroe@tandplejecentret.dk | Tandplejecentret Sorø
