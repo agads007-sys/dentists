@@ -1196,3 +1196,10 @@ mail@tp5.dk | Tandlæge Pernille Diederichsen
 kontakt@tandblomst.dk | Tandlægeklinikken Blomstervang / Tandlæge Elsa Durhuus
 mail@tandtilst.dk | Tandlægerne i Tilst
 info@tandlaegerne-klostergade.dk | Tandlægerne Klostergade
+
+# 2026-10-03 dentist Google-review PDF run batch 4
+klinik@tranbjergtand.dk | Tandlægerne Tranbjerg
+info@ryomtand.dk | Ryomgård Tandlægeklinik
+info@tand-bro.dk | Tandklinikken Brobjergparken
+info@tandlaegegalten.dk | Tandlægernes Hus Galten
+info@dintandlaege-havndal.dk | dinTANDLÆGE Havndal
