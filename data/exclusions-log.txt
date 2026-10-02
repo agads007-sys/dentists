@@ -1175,3 +1175,10 @@ info@vivildtand.dk | Tandlægerne i Vivild
 info@kjtand.dk | Kjellerup Tandlægecenter
 kontakt@tand8320.dk | Tandlægerne i Mårslet
 info@oerstedtand.dk | Tandlægehuset Ørsted
+
+# 2026-10-03 dentist Google-review PDF run batch 1
+adm@gistruptand.dk | Tandlægerne i Gistrup
+info@tandlaegernesvenstruptorv.dk | Tandlægerne Svenstrup Torv
+tv@tandlaegernevadum.dk | Tandlægerne Vadum
+tand@tdldronninglund.dk | Tandlægerne Dronninglund
+info@tandlaeger-stovring.dk | Tandlægerne Grandgårdscentret
