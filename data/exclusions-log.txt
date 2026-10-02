@@ -1059,3 +1059,10 @@ helle@gamst-skov.dk | Tandlæge Helle Gamst Skov
 info@tlhus.dk | Tandlægehuset på Aastrupvej
 roedekro@tandlaegehuset.dk | Tandlægehuset i Rødekro
 info@tandhansen.dk | Tand-Hansen / Tandlæge Rasa Hansen
+
+# 2026-10-02 dentist Google-review independent late-night run batch 2
+info@flemmingkock.dk | Tandlæge Flemming Kock
+tandlaege@perletand.dk | Perletand / Tandklinikken Perlegade 13 ApS
+k@rstoft.dk | Tandlægerne Kimmo Karstoft
+info@solsidetand.dk | Tandlægerne på Solsiden
+klinik@larsjohannesen.dk | Specialtandlæge Lars Johannesen
