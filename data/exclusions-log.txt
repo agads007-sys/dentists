@@ -964,3 +964,10 @@ info@lystruptandklinik.dk | Lystrup Tandklinik
 info@tandkultur.dk | Tandlægerne Kulturtorvet
 mail@odder-tandklinik.dk | Odder Tandklinik
 klinikken@tandtorvet6.dk | Tandlægerne på Torvet Odder
+
+# 2026-10-02 dentist Google-review outreach independent run batch 4
+dentist@dalsten.dk | Dalsten Tandlægecenter
+klinik@martinbhedegaard.dk | Tandlæge Martin Blander Hedegaard
+mail@damhustand.dk | Damhus Tandlægerne
+tandivalby@gmail.com | Tandlægerne i Valby
+info@vantand.dk | Vanløsetandlægerne
