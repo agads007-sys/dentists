@@ -1045,3 +1045,10 @@ klinik@tandlaegeteamet.dk | Tandlægeteamet
 tdl@smildubare.dk | Tandlægerne Banegårdspladsen 10
 info@barslevtand.dk | Barslev Tandklinik
 info@tandteamet.com | Tandteamet Refslund & Ørts
+
+# 2026-10-02 dentist Google-review independent late run batch 3
+info@hoerningtand.dk | Tandlægerne i Hørning
+info@tandlaegeingebusck.dk | Tandlæge Inge Busck
+tandlaegerneoestergadeti@mail.dk | Tandlægerne Østergade 10
+mail@tiv9.dk | Tandlægerne i Vestergade 9
+klinik@tandikast.dk | Tandlægerne Rådhusstrædet
