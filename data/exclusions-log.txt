@@ -1161,3 +1161,10 @@ hammel@oris.dk | ORIS Tandlægerne Hammel
 info@tandlaegehusetharlev.dk | Tandlægehuset Harlev
 info@tandlaegegalten.dk | Tandlægernes Hus Galten
 klinikken@tdlskou.dk | Tandlægerne Skou
+
+# 2026-10-03 dentist Google-review outreach workflow batch 4
+tjeletand@tjeletand.dk | Tandlægerne i Tjele
+info@them-tand.dk | Tandlægerne Them
+tdl.moeldrup@mail.dk | Tandlægerne i Møldrup
+aulum@tandlaegerne-herning.dk | Tandlægerne i Aulum
+post@thorningtand.dk | Tandlægerne i Thorning
