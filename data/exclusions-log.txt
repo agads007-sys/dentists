@@ -1134,3 +1134,9 @@ mail@vesterbrogade125.dk | Tandlæge Anette Schjødt Svendsen
 tandlaegerne@xeltorv.dk | Tandlægerne Axeltorv
 info@enghavetandklinik.dk | Enghave Tandklinik
 Tanddoktoren@gmail.com | Tandlægen ved Det Ny Teater
+
+# 2026-10-03 dentist Google-review outreach new run batch 3 (partial; stop rule)
+info@tandklinikkenamager.dk | Tandklinikken Amagerbrogade 195
+info@minmund.dk | Tandlæge Nadia Yousaf
+kontakt@tandkbh.dk | Tandlægerne på Ravnsborggade
+receptionen@amagerbro-tandklinik.dk | Amagerbro Tandklinik
