@@ -1203,3 +1203,10 @@ info@ryomtand.dk | Ryomgård Tandlægeklinik
 info@tand-bro.dk | Tandklinikken Brobjergparken
 info@tandlaegegalten.dk | Tandlægernes Hus Galten
 info@dintandlaege-havndal.dk | dinTANDLÆGE Havndal
+
+# 2026-10-03 dentist Google-review outreach workflow requested run batch 1
+post@mariager-tand.dk | Tandklinikken-Mariager
+klinik@kloppenborg.biz | Tandlæge Tanya Kloppenborg
+s.brandt@mail.dk | Tandlæge Susanne Brandt Jørgensen
+post@tdl-storetorv.dk | Tandlægerne Storetorv
+tdl.oestermarie@mail.dk | Tandlæge Dorte Westergaard / Tandlægerne i Østermarie
