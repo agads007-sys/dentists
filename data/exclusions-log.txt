@@ -1077,3 +1077,10 @@ klinikken@allanderry.dk | Specialtandlæge Allan Derry
 info@specialtandlaegernebudolfi.dk | Specialtandlægerne Budolfi
 mail@specialtandlaeger.dk | Specialtandlægerne Aarhus Tandregulering
 klinik@sptand.dk | Specialtandlægerne v. Søren Schou
+
+# 2026-10-03 dentist Google-review outreach run batch 1
+info@noeragertandklinik.com | Nørager Tandklinik
+info@aalestruptandklinik.dk | Aalestrup Tandklinik
+kontakt@hvid-tand.dk | Tandklinikken Østervrå ApS
+mail@tandkaas.dk | Tandlægerne Kaas
+tand@herlufkristensen.dk | Frederikshavn Implantatcenter / Tandlæge Herluf Kristensen
