@@ -1116,3 +1116,7 @@ klinik@jensentand.dk | Jensen Tandklinik
 info@dintandlaege-billund.dk | dinTANDLÆGE Skovparken
 tandlaegehusetbillund@harald.dk | Harald Tandlægehuset Billund
 grindsted@tandlaegen.dk | tandlægen.dk Grindsted
+
+# 2026-10-03 dentist Google-review outreach run batch 4 (partial; stop rule)
+mail@grindstedtand.dk | Tandlægerne Birketorvet
+mail@tandlaegehusetbrande.dk | Tandlægehuset Brande
