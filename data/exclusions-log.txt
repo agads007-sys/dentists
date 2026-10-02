@@ -950,3 +950,10 @@ struer@byens-tandklinik.dk | Byens Tandklinik Struer
 klinikken@tandlaegerne-boegild.dk | Tandlægerne Bøgild
 post@glamsbjergtandlaegerne.dk | Glamsbjergtandlægerne
 tandlaegerne@midtfyn.net | Tandlæge Charlotte Mogensen
+
+# 2026-10-02 dentist Google-review outreach independent run batch 2
+klinik@tandlaegernekvaerndrup.dk | Tandlægerne i Kværndrup I/S
+info@tandlaegernesanktanne.dk | Tandlægerne Skt. Anne Plads
+kontakt@skibhustandlaegerne.dk | Skibhus Tandlægerne
+info@tandklinikkenhunderupvej.dk | Tandklinikken Hunderupvej
+tandcenter@smil-i-tarup.dk | Tandlægerne Tarup Center
