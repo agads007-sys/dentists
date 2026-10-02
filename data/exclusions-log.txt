@@ -978,3 +978,10 @@ info@hellerup-tandklinik.dk | Tandlæge Susanne Drøjsbjerg
 info@jaegertand.dk | Jægersborg Tandlægeklinik
 klinik@vangedetand.dk | Tandlægerne i Vangede
 mail@ordruptand.dk | Ordruptand
+
+# 2026-10-02 dentist Google-review outreach independent follow-up run batch 1
+info@jyllingetand.dk | Jyllinge Tandlægerne
+klinik@hedehusenetand.dk | Tandlægerne i Hedehusene
+mail@klinikken.biz | Tandlægerne hos Normann Sørensen
+info@tandklinik77.dk | Tandlægerne Jepsen & D'Souza
+tanditaastrup@mail.dk | Tandlægerne i Taastrup
