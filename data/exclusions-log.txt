@@ -985,3 +985,10 @@ klinik@hedehusenetand.dk | Tandlægerne i Hedehusene
 mail@klinikken.biz | Tandlægerne hos Normann Sørensen
 info@tandklinik77.dk | Tandlægerne Jepsen & D'Souza
 tanditaastrup@mail.dk | Tandlægerne i Taastrup
+
+# 2026-10-02 dentist Google-review outreach independent follow-up run batch 2
+klinik@albertslundtand.dk | Albertslund Tand
+reception@arnesvej1.dk | Tandlægerne Arnesvej
+lene@ondtitanden.dk | Tandlæge Lene Rosendahl Pedersen
+klinik@tandjuul.dk | Brønshøj Tandpleje Center
+kontakt@broenshoejtand.dk | Tandlægerne i Brønshøj
