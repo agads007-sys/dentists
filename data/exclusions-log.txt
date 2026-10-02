@@ -889,3 +889,10 @@ info@klinikhuset-klitgaard.dk | Klinikhuset Klitgård
 info@nyborgtand.dk | Tandlægerne Kgs. Bastionsvej v. Helle Laubuch
 info@kajepleje.dk | Tandlægerne Isabel Tingsgaard og Elena Mikkelstrup
 info@tandterne.dk | Korsør Tandlægeklinik I/S
+
+# 2026-10-02 dentist Google-review outreach batch 2
+tdl.tanjalauest@pc.dk | Tandlæge Tanja Lauest
+info@tandklinikgilleleje.dk | Tandklinikken Gilleleje
+info@tandlaegehuset.nu | Tandlægehuset i Slangerup
+klinik@egebaeksvangklinikken.dk | Egebæksvangklinikken
+tandlaegerne@vibytand.dk | Tandlægerne i Viby
