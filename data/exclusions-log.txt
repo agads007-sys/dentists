@@ -1189,3 +1189,10 @@ info@tandlaegerneskoerping.dk | Tandlægerne Skørping
 info@taender-glaede.dk | Tandlægerne Frilandsvej
 frejlev@oris.dk | ORIS Tandlægerne Frejlev
 mail@tandlaegernegandrup.dk | Tandlægerne Gandrup
+
+# 2026-10-03 dentist Google-review PDF run batch 3
+mail@molstandklinik.dk | Mols Tandklinik
+mail@tp5.dk | Tandlæge Pernille Diederichsen
+kontakt@tandblomst.dk | Tandlægeklinikken Blomstervang / Tandlæge Elsa Durhuus
+mail@tandtilst.dk | Tandlægerne i Tilst
+info@tandlaegerne-klostergade.dk | Tandlægerne Klostergade
