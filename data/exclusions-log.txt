@@ -1120,3 +1120,10 @@ grindsted@tandlaegen.dk | tandlægen.dk Grindsted
 # 2026-10-03 dentist Google-review outreach run batch 4 (partial; stop rule)
 mail@grindstedtand.dk | Tandlægerne Birketorvet
 mail@tandlaegehusetbrande.dk | Tandlægehuset Brande
+
+# 2026-10-03 dentist Google-review outreach new run batch 1
+info@tand-hl.dk | Tandlæge Emilie Hauen-Limkilde
+info@kraghrughave.dk | Tandlægerne Kragh og Rughave
+kontakt@matilde-brandt.dk | Tandlæge Matilde Brandt
+info@etsikkertsmil.dk | Tandlægerne Sundhedshuset Svendborg
+TT4@TT4.dk | Tandlægerne Trianglen 4
