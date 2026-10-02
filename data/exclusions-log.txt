@@ -1102,3 +1102,10 @@ tandlaege@haslevtandlaegehus.dk | Haslev Tandlægehus ApS
 mail@klinikholmberg.dk | Klinik Holmberg, Møn
 jctand@harald.dk | Harald Tandlæge Jacob Christensen
 soroe@tandplejecentret.dk | Tandplejecentret Sorø
+
+# 2026-10-03 dentist Google-review outreach run batch 2
+info@sydthytand.dk | Sydthy Tandklinik
+struer@tandlaegen.dk | tandlægen.dk Struer
+reception@tandlaegehuset.com | Tandlægehuset Vinderup
+info@nygadetand.dk | Tandlægerne Nygade
+brandetand@brandetand.dk | dinTANDLÆGE Brande
