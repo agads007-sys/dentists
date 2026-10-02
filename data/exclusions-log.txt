@@ -903,3 +903,10 @@ tandlaege@post.tele.dk | Tandlægerne i Hundige/Greve
 tandkarlprivat@gmail.com | Tandlægerne i Karlslunde
 klinik@tunetand.dk | Tune Tandlægen
 reception@specialtandlaegerne.com | Specialtandlægerne i Roskilde ApS
+
+# 2026-10-02 dentist Google-review outreach new run batch 1
+mail@bstand.dk | Tandlægerne Holmboe & Schurmann
+maiankerstjerne@mail.dk | Tandlægehuset v/ Mai Ankerstjerne
+mail@fortanden.dk | Tandlægehuset i Langå
+info@tandklinikkenthorso.dk | Tandklinikken Thorsø
+info@tanden.dk | Vildbjerg Tandcenter
