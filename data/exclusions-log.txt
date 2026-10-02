@@ -882,3 +882,10 @@ info@tandvaerk.dk | Tandlægerne i Frederiksværk
 tand.bmn@mail.dk | Tandlæge Birger Mølgaard Nielsen
 hundested-tand@webspeed.dk | Tandlæge Svend Ulrich Jensen
 klinik@pc.dk | Tandlægeklinikken i Skævinge
+
+# 2026-10-02 dentist Google-review outreach batch 1
+info@ellehammer-toftini.dk | Tandis
+info@klinikhuset-klitgaard.dk | Klinikhuset Klitgård
+info@nyborgtand.dk | Tandlægerne Kgs. Bastionsvej v. Helle Laubuch
+info@kajepleje.dk | Tandlægerne Isabel Tingsgaard og Elena Mikkelstrup
+info@tandterne.dk | Korsør Tandlægeklinik I/S
