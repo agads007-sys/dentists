@@ -1027,3 +1027,7 @@ info@skensvedtand.dk | Tandlægerne i Ll. Skensved
 info@neotand.dk | Tandlægecentret Neotand
 tdl.amund.nielsen@mail.dk | Tandlæge Peter Amund Nielsen
 kontakt@tandlaegehusetherfoelge.dk | Tandlægehuset Herfølge
+
+# 2026-10-02 dentist Google-review independent evening run batch 3 (partial; stop rule)
+hildegard@ejbytandlaegehus.dk | Ejby Tandlægehus
+tandlaegefornitz@hotmail.com | Tandlæge Henning Fornitz
