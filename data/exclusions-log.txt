@@ -1109,3 +1109,10 @@ struer@tandlaegen.dk | tandlægen.dk Struer
 reception@tandlaegehuset.com | Tandlægehuset Vinderup
 info@nygadetand.dk | Tandlægerne Nygade
 brandetand@brandetand.dk | dinTANDLÆGE Brande
+
+# 2026-10-03 dentist Google-review outreach run batch 3
+kontakt@givetandklinik.dk | Give Tandklinik
+klinik@jensentand.dk | Jensen Tandklinik
+info@dintandlaege-billund.dk | dinTANDLÆGE Skovparken
+tandlaegehusetbillund@harald.dk | Harald Tandlægehuset Billund
+grindsted@tandlaegen.dk | tandlægen.dk Grindsted
