@@ -1070,3 +1070,10 @@ klinik@larsjohannesen.dk | Specialtandlæge Lars Johannesen
 # 2026-10-02 dentist Google-review independent late-night run batch 3 (partial; stop rule)
 info@hhtand.dk | Tandlægerne v/Henrik Hegermann
 klinikken@tandbo.dk | Tandlægerne Boulevardhuset
+
+# 2026-10-02 dentist Google-review outreach run batch 1
+mail@knudkamper.dk | Tandlægerne Knud Kamper
+klinikken@allanderry.dk | Specialtandlæge Allan Derry
+info@specialtandlaegernebudolfi.dk | Specialtandlægerne Budolfi
+mail@specialtandlaeger.dk | Specialtandlægerne Aarhus Tandregulering
+klinik@sptand.dk | Specialtandlægerne v. Søren Schou
