@@ -915,3 +915,10 @@ info@tanden.dk | Vildbjerg Tandcenter
 info@hoerningtorv.dk | TandlægeCenteret Hørning Torv
 info@tandipadborg.dk | Tandlægehuset Padborg ApS
 klinik@tandlaegehuset-nordborg.dk | Tandlægehuset Nordborg
+
+# 2026-10-02 dentist Google-review outreach fresh run batch 1
+mail@tandklinikkenulfborg.dk | Tandklinikken Ulfborg
+inge.olsen@pc.dk | Tandlæge Inge Olsen
+info@tandhadsund.dk | Tandlægehuset ved Stranden
+tdl.foged@gmail.com | Tandlæge Chalam Singthong
+tandlaegernesoenderskovvej@mail.dk | Tandlæge Tinne Zetterstrøm
