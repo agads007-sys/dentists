@@ -1031,3 +1031,10 @@ kontakt@tandlaegehusetherfoelge.dk | Tandlægehuset Herfølge
 # 2026-10-02 dentist Google-review independent evening run batch 3 (partial; stop rule)
 hildegard@ejbytandlaegehus.dk | Ejby Tandlægehus
 tandlaegefornitz@hotmail.com | Tandlæge Henning Fornitz
+
+# 2026-10-02 dentist Google-review independent late run batch 1
+info@tandklinikkenesbjerg.dk | Tandklinikken Esbjerg
+kontakt@esbjerg-tand.dk | Tandklinikken Kongensgade
+kontakt@mintand.dk | Tandlægerne Strandbysvinget
+mail@jernetand.dk | Tandlægerne Jerne Torv
+Tandlaegenkirkegade@mail.dk | Tandlægen Kirkegade
