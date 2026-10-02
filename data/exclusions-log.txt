@@ -971,3 +971,10 @@ klinik@martinbhedegaard.dk | Tandlæge Martin Blander Hedegaard
 mail@damhustand.dk | Damhus Tandlægerne
 tandivalby@gmail.com | Tandlægerne i Valby
 info@vantand.dk | Vanløsetandlægerne
+
+# 2026-10-02 dentist Google-review outreach independent run batch 5
+info@valbytand.dk | Valby Tand
+info@hellerup-tandklinik.dk | Tandlæge Susanne Drøjsbjerg
+info@jaegertand.dk | Jægersborg Tandlægeklinik
+klinik@vangedetand.dk | Tandlægerne i Vangede
+mail@ordruptand.dk | Ordruptand
