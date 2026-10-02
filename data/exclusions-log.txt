@@ -1147,3 +1147,10 @@ info@tandlaegernevidebaek.dk | Tandlægerne Videbæk
 kontor@tandlaegehuset-skjern.dk | Tandlægehuset Skjern
 info@tandlaegerne-skjern.dk | Tandlægerne Obling, Rudebeck og Naur
 info@densundemund.dk | Tømmergårdens Tandlæger
+
+# 2026-10-03 dentist Google-review outreach workflow batch 2
+ribe@dentist.dk | Dentist.dk Ribe
+ribe@tandreguleringshuset.dk | Tandreguleringshuset Ribe
+skaerbaek@dentist.dk | Dentist.dk Skærbæk
+vejen@tandlaegen.dk | tandlægen.dk Vejen
+stoholm@dentist.dk | Dentist.dk Stoholm
