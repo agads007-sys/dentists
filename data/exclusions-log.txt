@@ -992,3 +992,10 @@ reception@arnesvej1.dk | Tandlægerne Arnesvej
 lene@ondtitanden.dk | Tandlæge Lene Rosendahl Pedersen
 klinik@tandjuul.dk | Brønshøj Tandpleje Center
 kontakt@broenshoejtand.dk | Tandlægerne i Brønshøj
+
+# 2026-10-02 dentist Google-review outreach independent follow-up run batch 3
+Kontor@bellatand.dk | Bellatand
+bakkevejtand@gmail.com | Tandlægerne Bakkevej
+mail@tandlaegehuset-alleroed.dk | Tandlægehuset Allerød
+tandlaegen@tand50a.dk | Tandlægerne 50A
+info@stjernegade22.dk | Tandlæge Betina Grønbæk
