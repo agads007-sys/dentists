@@ -1154,3 +1154,10 @@ ribe@tandreguleringshuset.dk | Tandreguleringshuset Ribe
 skaerbaek@dentist.dk | Dentist.dk Skærbæk
 vejen@tandlaegen.dk | tandlægen.dk Vejen
 stoholm@dentist.dk | Dentist.dk Stoholm
+
+# 2026-10-03 dentist Google-review outreach workflow batch 3
+bro@tandjust.dk | Tandlægerne Justesen, Bjerringbro
+hammel@oris.dk | ORIS Tandlægerne Hammel
+info@tandlaegehusetharlev.dk | Tandlægehuset Harlev
+info@tandlaegegalten.dk | Tandlægernes Hus Galten
+klinikken@tdlskou.dk | Tandlægerne Skou
