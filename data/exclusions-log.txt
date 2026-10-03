@@ -1210,3 +1210,10 @@ klinik@kloppenborg.biz | Tandlæge Tanya Kloppenborg
 s.brandt@mail.dk | Tandlæge Susanne Brandt Jørgensen
 post@tdl-storetorv.dk | Tandlægerne Storetorv
 tdl.oestermarie@mail.dk | Tandlæge Dorte Westergaard / Tandlægerne i Østermarie
+
+# 2026-10-03 dentist Google-review outreach workflow requested run batch 2
+info@dinsundetand.dk | Tandlægerne Pistolstræde
+mail@toftegaardtand.dk | Tandlægerne på Toftegårds Plads
+info@tchp.dk | Tandlægecenter Højbro Plads
+taender@taender.dk | Tandklinik Tine Starch-Hytoft
+tandlaegerne@hoejbroplads.dk | Tandlæge Maj-Britt Liliendahl
