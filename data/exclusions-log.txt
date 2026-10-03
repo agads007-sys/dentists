@@ -1217,3 +1217,10 @@ mail@toftegaardtand.dk | Tandlægerne på Toftegårds Plads
 info@tchp.dk | Tandlægecenter Højbro Plads
 taender@taender.dk | Tandklinik Tine Starch-Hytoft
 tandlaegerne@hoejbroplads.dk | Tandlæge Maj-Britt Liliendahl
+
+# 2026-10-03 dentist Google-review outreach workflow requested run batch 3
+info@naat.dk | Nørre Aaby Tandlægerne
+maise-tand@proton.me | Maise-Tand
+hostrupstand@hotmail.com | Hostrups Tandlæge
+sundmund@sundmund.com | SUNDMUND Frederiksberg
+kontakt@tandhelt.dk | Tandlægehuset Vanløse
